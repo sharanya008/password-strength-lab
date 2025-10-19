@@ -29,5 +29,5 @@ matplotlib (optional, for plotting)
 pip install streamlit bcrypt argon2-cffi matplotlib
 # Run the app
 streamlit run password_strength_lab.py
-The app will open in your default browser at http://localhost:8501.
+The app will open in your default browser 
 
