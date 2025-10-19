@@ -1,4 +1,4 @@
-# password-strength-lab
+## password-strength-lab
 # Password Strength Lab (Interactive)
 Password Strength Lab is an educational, interactive simulator that helps users understand password entropy, how hashing choices (bcrypt, Argon2, SHA‑256) and salt/cost parameters affect brute‑force cracking time, and how different attacker models (CPU, GPU, and a simulated quantum attacker) compare.
 This tool is for learning and demonstration only. It does not perform real attacks and should never be used against real accounts or systems.
@@ -25,3 +25,4 @@ streamlit
 bcrypt
 argon2-cffi
 matplotlib (optional, for plotting)
+
